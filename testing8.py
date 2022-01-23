@@ -1,4 +1,4 @@
-list1 = ["Tim","tim", "harry", "Harry", "dave", "Dave", "mike", "Mike"]
+list1 = ["Tim","tim", "harry", "Harry", "dave", "Dave", "mike", "Mike", "shahida", "Shahida"]
 var1 = input("Please enter your name: ")
 
 if var1 in list1:
